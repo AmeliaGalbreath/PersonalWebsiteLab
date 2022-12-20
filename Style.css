@@ -1,0 +1,27 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    background-color: rgb(136, 216, 192);
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    margin-left: 20px;
+}
+
+footer {
+    background-color: rgb(136, 216, 192);
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* I used the entire class time to work and only got this far, sorry if it doesnt look like much to you. My labs usually take me around 7 hours to do if I'm doing them completely on my own without anybody elses help because of how slow I am at learning things through purely reading. Since this is brand new and includes a lot of creative freedoms, its probably going to take me the entirety of break to finish this. */
